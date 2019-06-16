@@ -1,0 +1,121 @@
+[07-Dec-2018 06:04:21 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/spellclassesco/public_html/TgTracker/application/views/Admin/index.php on line 10
+[07-Dec-2018 06:09:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/spellclassesco/public_html/TgTracker/application/views/Admin/include/header.php on line 40
+[07-Dec-2018 06:24:36 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/login.php on line 38
+[07-Dec-2018 06:26:35 UTC] PHP Fatal error:  Call to undefined method CI_Output::clear_cache() in /home/spellclassesco/public_html/TgTracker/application/controllers/Auth.php on line 19
+[08-Dec-2018 10:00:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/MonthwiseReport.php on line 109
+[08-Dec-2018 11:07:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/MonthwiseReport.php on line 175
+[08-Dec-2018 11:20:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/spellclassesco/public_html/TgTracker/application/controllers/Report.php on line 36
+[08-Dec-2018 11:25:26 UTC] PHP Fatal error:  Call to undefined function SUM() in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/MonthwiseReport.php on line 106
+[10-Dec-2018 06:19:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/CompleteProject.php on line 128
+[10-Dec-2018 12:41:59 UTC] PHP Fatal error:  Call to undefined function Sum() in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/Project_Closing.php on line 126
+[10-Dec-2018 12:42:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/Project_Closing.php on line 182
+[10-Dec-2018 12:55:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/spellclassesco/public_html/TgTracker/application/views/Admin/pages/Project_Closing.php on line 134
+[12-Dec-2018 08:13:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/spellclassesco/public_html/TgTracker/application/views/Admin/index.php on line 224
+[17-Dec-2018 12:06:02 Etc/GMT] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/skyriseacademy/public_html/admin/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[18-Dec-2018 07:21:45 UTC] PHP Fatal error:  Cannot redeclare Dashboard::TestimonialDelete() in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 439
+[18-Dec-2018 11:53:07 UTC] PHP Fatal error:  Call to undefined method CI_Loader::librarys() in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 9
+[18-Dec-2018 17:14:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/Add_tests.php on line 162
+[18-Dec-2018 17:15:56 UTC] PHP Fatal error:  Cannot access empty property in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/Add_tests.php on line 162
+[18-Dec-2018 17:16:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/Add_tests.php on line 171
+[18-Dec-2018 17:20:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/Add_tests.php on line 171
+[18-Dec-2018 18:25:48 UTC] PHP Parse error:  syntax error, unexpected 'tests' (T_STRING) in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 438
+[18-Dec-2018 18:25:52 UTC] PHP Parse error:  syntax error, unexpected 'tests' (T_STRING) in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 438
+[19-Dec-2018 05:44:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 120
+[19-Dec-2018 05:45:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 123
+[19-Dec-2018 05:46:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 127
+[19-Dec-2018 05:46:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 127
+[19-Dec-2018 05:47:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 127
+[19-Dec-2018 05:47:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 125
+[19-Dec-2018 05:50:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 126
+[19-Dec-2018 05:53:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:53:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:53:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:53:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:53:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:53:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:53:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:53:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:54:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:54:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:54:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:55:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 05:55:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 06:06:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 06:06:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 06:06:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 06:09:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 137
+[19-Dec-2018 06:11:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 138
+[19-Dec-2018 06:11:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 138
+[19-Dec-2018 06:11:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 138
+[19-Dec-2018 06:11:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 138
+[19-Dec-2018 06:12:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 138
+[19-Dec-2018 06:13:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 138
+[19-Dec-2018 06:14:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:14:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:15:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:15:05 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:15:05 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:15:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:15:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:15:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 06:15:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 144
+[19-Dec-2018 07:41:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 217
+[19-Dec-2018 07:41:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 217
+[19-Dec-2018 07:41:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 217
+[19-Dec-2018 07:41:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/List_show/My_tests.php on line 217
+[19-Dec-2018 08:25:44 UTC] PHP Fatal error:  Call to a member function getwhere() on null in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 162
+[19-Dec-2018 08:25:51 UTC] PHP Fatal error:  Call to a member function getwhere() on null in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 162
+[19-Dec-2018 10:14:48 UTC] PHP Fatal error:  Cannot redeclare Dashboard::tests_delete() in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 478
+[19-Dec-2018 10:45:23 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saibabacollege/public_html/skyrise/application/views/Admin/pages/Add/Add_details.php on line 1
+[19-Dec-2018 10:47:14 UTC] PHP Fatal error:  Cannot redeclare Dashboard::TestimonialDelete() in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 520
+[19-Dec-2018 10:47:16 UTC] PHP Fatal error:  Cannot redeclare Dashboard::TestimonialDelete() in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 520
+[19-Dec-2018 10:47:16 UTC] PHP Fatal error:  Cannot redeclare Dashboard::TestimonialDelete() in /home/saibabacollege/public_html/skyrise/application/controllers/Dashboard.php on line 520
+[01-Feb-2019 10:15:19 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home5/ihisaabco/public_html/DSC/application/controllers/Superadmin.php on line 15
+[02-Feb-2019 03:45:07 UTC] PHP Fatal error:  Call to undefined method CI_Upload::display_error() in /home5/ihisaabco/public_html/DSC/application/controllers/Subdm.php on line 93
+[02-Feb-2019 03:55:04 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home5/ihisaabco/public_html/DSC/application/controllers/Subdm.php on line 33
+[02-Feb-2019 04:05:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home5/ihisaabco/public_html/DSC/application/views/add_school.php on line 184
+[02-Feb-2019 04:50:06 UTC] PHP Fatal error:  Call to undefined function rediret() in /home5/ihisaabco/public_html/DSC/application/controllers/Editupdate.php on line 84
+[02-Feb-2019 06:35:46 UTC] PHP Fatal error:  Call to a member function display_errors() on null in /home5/ihisaabco/public_html/DSC/application/controllers/Subdm.php on line 111
+[02-Feb-2019 06:38:59 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home5/ihisaabco/public_html/DSC/application/controllers/Subdm.php on line 52
+[02-Feb-2019 10:50:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home5/ihisaabco/public_html/DSC/application/controllers/Editupdate.php on line 60
+[02-Feb-2019 14:42:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home5/ihisaabco/public_html/DSC/application/controllers/Superadmin.php on line 53
+[02-Feb-2019 14:42:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home5/ihisaabco/public_html/DSC/application/controllers/Superadmin.php on line 53
+[02-Feb-2019 16:02:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home5/ihisaabco/public_html/DSC/application/controllers/Subdm.php on line 121
+[02-Feb-2019 16:02:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home5/ihisaabco/public_html/DSC/application/controllers/Subdm.php on line 121
+[02-Feb-2019 19:27:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home5/ihisaabco/public_html/DSC/application/views/list_accountant.php on line 127
+[02-Feb-2019 19:27:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home5/ihisaabco/public_html/DSC/application/views/list_accountant.php on line 127
+[02-Feb-2019 19:37:24 UTC] PHP Fatal error:  Cannot redeclare getSR() (previously declared in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php:183) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 182
+[02-Feb-2019 19:41:56 UTC] PHP Fatal error:  Cannot redeclare getSR1() (previously declared in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php:183) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 182
+[02-Feb-2019 19:42:02 UTC] PHP Fatal error:  Cannot redeclare getSR1() (previously declared in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php:183) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 182
+[02-Feb-2019 19:42:18 UTC] PHP Fatal error:  Cannot redeclare getSR1() (previously declared in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php:183) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 182
+[02-Feb-2019 19:42:33 UTC] PHP Fatal error:  Cannot redeclare getSR1() (previously declared in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php:183) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 182
+[02-Feb-2019 19:44:48 UTC] PHP Fatal error:  Cannot redeclare getSR1() (previously declared in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php:183) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 182
+[02-Feb-2019 19:46:04 UTC] PHP Fatal error:  Cannot redeclare getSR1() (previously declared in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php:183) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 182
+[03-Feb-2019 06:12:38 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 201
+[03-Feb-2019 06:23:33 UTC] PHP Parse error:  syntax error, unexpected 'DM' (T_STRING) in /home5/ihisaabco/public_html/DSC/application/views/list_superadmin.php on line 194
+[03-Feb-2019 11:23:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home5/ihisaabco/public_html/DSC/application/views/modify.php on line 280
+[03-Feb-2019 16:17:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home5/ihisaabco/public_html/DSC/application/controllers/Editupdate.php on line 314
+[03-Feb-2019 16:35:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::num_row() in /home5/ihisaabco/public_html/DSC/application/controllers/Editupdate.php on line 79
+[05-Feb-2019 09:53:19 UTC] PHP Fatal error:  Call to a member function view() on null in /home5/ihisaabco/public_html/DSC/application/controllers/Operator.php on line 20
+[05-Feb-2019 14:03:15 UTC] PHP Fatal error:  Call to undefined function form_date() in /home5/ihisaabco/public_html/DSC/application/views/add_student.php on line 163
+[06-Feb-2019 03:54:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/ihisaabco/public_html/DSC/application/views/modify.php on line 135
+[06-Feb-2019 12:31:09 UTC] PHP Fatal error:  Call to undefined function getSR6() in /home5/ihisaabco/public_html/DSC/application/views/list_accountant.php on line 157
+[07-Feb-2019 03:29:10 UTC] PHP Fatal error:  Cannot redeclare Sendlist::getListTakeAttendence() in /home5/ihisaabco/public_html/DSC/application/controllers/Sendlist.php on line 155
+[07-Feb-2019 03:30:30 UTC] PHP Fatal error:  Call to undefined function getListClassCommon() in /home5/ihisaabco/public_html/DSC/application/controllers/Sendlist.php on line 113
+[07-Feb-2019 03:32:07 UTC] PHP Fatal error:  Call to undefined function getListClassCommon() in /home5/ihisaabco/public_html/DSC/application/controllers/Sendlist.php on line 130
+[07-Feb-2019 16:15:19 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home5/ihisaabco/public_html/DSC/application/views/add_student.php on line 330
+[08-Feb-2019 10:05:31 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home5/ihisaabco/public_html/DSC/application/views/view_admitcard.php on line 50
+[09-Feb-2019 05:47:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home5/ihisaabco/public_html/DSC/application/controllers/Operator.php on line 307
+[09-Feb-2019 05:48:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home5/ihisaabco/public_html/DSC/application/controllers/Operator.php on line 307
+[09-Feb-2019 05:48:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home5/ihisaabco/public_html/DSC/application/controllers/Operator.php on line 307
+[09-Feb-2019 05:48:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home5/ihisaabco/public_html/DSC/application/controllers/Operator.php on line 307
+[10-Feb-2019 14:08:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home5/ihisaabco/public_html/DSC/application/controllers/Excel_import.php on line 49
+[10-Feb-2019 14:08:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home5/ihisaabco/public_html/DSC/application/controllers/Excel_import.php on line 49
+[11-Feb-2019 02:03:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home5/ihisaabco/public_html/DSC/application/controllers/Sendlist.php on line 15
+[12-Feb-2019 06:04:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home5/ihisaabco/public_html/DSC/application/controllers/Sendlist.php on line 15
+[12-Feb-2019 10:31:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home5/ihisaabco/public_html/DSC/application/controllers/Sendlist.php on line 15
+[12-Feb-2019 11:02:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home5/ihisaabco/public_html/DSC/application/controllers/Dm.php on line 161
+[12-Feb-2019 11:07:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home5/ihisaabco/public_html/DSC/application/controllers/Dm.php on line 161
+[12-Feb-2019 12:40:31 UTC] PHP Parse error:  syntax error, unexpected '*' in /home5/ihisaabco/public_html/DSC/application/controllers/Superadmin.php on line 234
+[12-Feb-2019 17:38:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home5/ihisaabco/public_html/DSC/application/controllers/Dm.php on line 170
+[12-Feb-2019 18:59:17 UTC] PHP Parse error:  syntax error, unexpected ''pincode'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/ihisaabco/public_html/DSC/application/controllers/School.php on line 376
